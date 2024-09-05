@@ -37,5 +37,6 @@ public class SwitchStatement {
                 System.out.println("Masukan nomor antara 1 - 7 :");
                 System.exit(0);
         }
+        System.out.println(namahari);
     }
 }
